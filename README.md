@@ -4,5 +4,6 @@ The online store sells a wide range of products some of which are very popular w
   
 Product segmentation (ABC/RFM/Price Range):  
 https://public.tableau.com/shared/53J5TKF95?:display_count=n&:origin=viz_share_link  
+  
 Customer Segmentation:  
 https://public.tableau.com/views/ProductRangeAnalysisPurchases/PRAPurchases?:language=en-GB&:display_count=n&:origin=viz_share_link
